@@ -6,7 +6,6 @@ This project presents a complete hospital quality performance analysis dashboard
 
 The project transforms raw hospital data into a clean, interactive, and decision ready reporting solution that supports hospital benchmarking and operational analysis.
 
----
 
 ## 🎯 Project Objectives
 
@@ -17,7 +16,6 @@ The project transforms raw hospital data into a clean, interactive, and decision
 * Support management level decision making using interactive visuals
 * Provide benchmarking across states and hospital categories
 
----
 
 ## 🗂️ Dataset Used
 
@@ -33,7 +31,6 @@ The project uses hospital level quality and performance data including:
 * Patient safety measures
 * Overall hospital ratings
 
----
 
 ## 🧹 Data Cleaning and Preparation
 
@@ -47,7 +44,6 @@ Several data cleaning and transformation steps were performed before building th
 * Built relationships between fact and dimension tables
 * Designed the data model using a star schema approach
 
----
 
 ## 🏗️ Data Model Design
 
@@ -67,7 +63,6 @@ The dashboard follows a star schema model for better performance and scalability
 
 This structure improves filtering, relationship management, and reporting speed.
 
----
 
 ## 📊 Dashboard Pages
 
@@ -109,7 +104,6 @@ Shows regional insights including:
 * Best and worst performing states
 * Comparison of hospital ratings across regions
 
----
 
 ## 📈 Key KPIs Used
 
@@ -125,7 +119,6 @@ Shows regional insights including:
 * Safety Better Count
 * Threshold Based Performance Measures
 
----
 
 ## ⚙️ DAX Measures Created
 
@@ -145,7 +138,6 @@ Some important DAX measures used in this project include:
 
 These measures help make the dashboard dynamic and interactive.
 
----
 
 ## 🎨 Visualizations Used
 
@@ -161,7 +153,6 @@ These measures help make the dashboard dynamic and interactive.
 * Drill Through Pages
 * Tooltips
 
----
 
 ## 🔍 Key Insights
 
@@ -172,7 +163,6 @@ These measures help make the dashboard dynamic and interactive.
 * Matrix analysis helps identify hospitals with repeated poor performance across multiple measures
 * Ownership type also impacts hospital quality trends
 
----
 
 ## 🚀 Tools and Technologies Used
 
@@ -183,7 +173,7 @@ These measures help make the dashboard dynamic and interactive.
 * Data Modeling
 * Star Schema Design
 
----
+
 
 ## 📌 Business Value
 
@@ -195,7 +185,31 @@ This dashboard helps healthcare stakeholders:
 * Improve operational and patient care decisions
 * Support quality improvement initiatives
 
----
+
+## 📷 Dashboard Screenshots
+Executive Overview Dashboard
+
+This dashboard provides a high level summary of hospital performance across multiple quality indicators. It includes KPIs such as total hospitals, total measures, average rating, better performance count, worse performance count, and ownership distribution.
+
+Hospital Performance Dashboard
+
+This page focuses on individual hospital level analysis. It helps compare hospitals across quality measures, patient safety indicators, readmission performance, and overall ratings.
+
+State Wise Dashboard
+
+This dashboard shows state level performance trends and comparisons. It helps identify the best and worst performing states, hospital distribution, and differences in hospital ratings across regions.
+
+Data Model View
+
+The project follows a star schema data model. The fact table stores detailed hospital performance data, while dimension tables support filtering by hospital, state, ownership, measure category, and ratings.
+
+DAX Measures Section
+
+Several DAX measures were created to make the dashboard interactive and dynamic. These include Better Count, Worse Count, Average Rating, Better Percentage, Hospitals Above Threshold, Projected Safety Better, and Projected Readmission Better.
+
+Power Query Cleaning Steps
+
+Power Query was used to clean and prepare the raw dataset before building the dashboard. This included removing duplicates, handling missing values, correcting data formats, standardizing names, and creating calculated columns for analysis.
 
 ## 📁 Project Deliverables
 
@@ -206,7 +220,6 @@ This dashboard helps healthcare stakeholders:
 * Project Documentation
 * Dashboard Screenshots
 
----
 
 ## 🌟 Conclusion
 
