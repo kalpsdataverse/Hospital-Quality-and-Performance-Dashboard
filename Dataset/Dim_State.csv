@@ -1,0 +1,53 @@
+﻿StateCode,StateName,Country,Region
+AK,Alaska,USA,West
+AL,Alabama,USA,South
+AR,Arkansas,USA,South
+AZ,Arizona,USA,West
+CA,California,USA,West
+CO,Colorado,USA,West
+CT,Connecticut,USA,Northeast
+DC,District of Columbia,USA,Northeast
+DE,Delaware,USA,Northeast
+FL,Florida,USA,South
+GA,Georgia,USA,South
+HI,Hawaii,USA,West
+IA,Iowa,USA,Midwest
+ID,Idaho,USA,West
+IL,Illinois,USA,Midwest
+IN,Indiana,USA,Midwest
+KS,Kansas,USA,Midwest
+KY,Kentucky,USA,South
+LA,Louisiana,USA,South
+MA,Massachusetts,USA,Northeast
+MD,Maryland,USA,Northeast
+ME,Maine,USA,Northeast
+MI,Michigan,USA,Midwest
+MN,Minnesota,USA,Midwest
+MO,Missouri,USA,Midwest
+MS,Mississippi,USA,South
+MT,Montana,USA,West
+NC,North Carolina,USA,South
+ND,North Dakota,USA,Midwest
+NE,Nebraska,USA,Midwest
+NH,New Hampshire,USA,Northeast
+NJ,New Jersey,USA,Northeast
+NM,New Mexico,USA,West
+NV,Nevada,USA,West
+NY,New York,USA,Northeast
+OH,Ohio,USA,Midwest
+OK,Oklahoma,USA,South
+OR,Oregon,USA,West
+PA,Pennsylvania,USA,Northeast
+PR,Puerto Rico,USA,Territory
+RI,Rhode Island,USA,Northeast
+SC,South Carolina,USA,South
+SD,South Dakota,USA,Midwest
+TN,Tennessee,USA,South
+TX,Texas,USA,South
+UT,Utah,USA,West
+VA,Virginia,USA,South
+VT,Vermont,USA,Northeast
+WA,Washington,USA,West
+WI,Wisconsin,USA,Midwest
+WV,West Virginia,USA,South
+WY,Wyoming,USA,West
